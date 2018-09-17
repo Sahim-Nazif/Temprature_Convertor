@@ -28,11 +28,10 @@ public class TempratureConvertor {
 			System.out.println("Thank you for using the application ");
 			break;
 		}
+		else {
+			System.out.println("Invalid Entry !");
+		}
 	}
-	
-	
-	
-
-	}
+   }
 
 }
